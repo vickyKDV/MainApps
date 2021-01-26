@@ -10,6 +10,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/TestModule" />
+            <option value="$PROJECT_DIR$/TestModule/FiturModule" />
+            <option value="$PROJECT_DIR$/TestModule/FiturModule/mylib" />
             <option value="$PROJECT_DIR$/app" />
           </set>
         </option>
